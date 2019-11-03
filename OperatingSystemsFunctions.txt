@@ -1,2 +1,5 @@
 One important function of an operating system is to manage memory. The OS will control how files are stored and loaded. It knows which bytes
 are used by user programs. It also stores and displays directories for files and documents.
+
+
+Another function of an operating system is to provide a user interfaces. This could be a Graphical User Interface, which the user can navigate through menus with images and text, or a Command Line Interface, in which the user enters commands into the terminal to navigate the system.
