@@ -1,0 +1,2 @@
+One important function of an operating system is to manage memory. The OS will control how files are stored and loaded. It knows which bytes
+are used by user programs. It also stores and displays directories for files and documents.
